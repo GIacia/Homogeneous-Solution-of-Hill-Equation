@@ -13,3 +13,9 @@ codegen/
 *.pdf
 *.doc
 *.docx
+
+# Ignore everything in data
+data/*
+
+# But keep the README
+!data/README.md
