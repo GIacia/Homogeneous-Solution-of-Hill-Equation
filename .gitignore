@@ -1,0 +1,15 @@
+# MATLAB autosave
+*.asv
+
+# MATLAB generated folders
+slprj/
+codegen/
+
+# Temporary files
+*.log
+*.tmp
+
+# Reports
+*.pdf
+*.doc
+*.docx
