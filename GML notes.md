@@ -165,9 +165,7 @@ $$
 Let $y_i\in\{-1,+1\}$, and suppose the perceptron updates on a misclassified point using
 
 $$
-w_{t+1}
-=
-w_t+\frac12\left(y_i-\operatorname{sign}(w_t^\top x_i)\right)x_i.
+w_{t+1}=w_t+\frac12\left(y_i-\operatorname{sign}(w_t^\top x_i)\right)x_i.
 $$
 
 Answer these without notes if possible:
